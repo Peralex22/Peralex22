@@ -1,3 +1,6 @@
+
+<h1 align="center"><img align="center" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/></a></h1>
+
 <h1 align="center">Hi 👋, I'm Alex Perez</h1>
 <h3 align="center">Web development | Databases | Image design | Programming | Teamwork 👨‍💻</h3>
 
